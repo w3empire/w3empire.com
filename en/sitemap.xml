@@ -2,123 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.example.com/institutional/about-us/</loc>
+    <loc>https://w3empire.com/institutional/about-us/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://www.example.com/pt/institutional/about-us/"
+                href="https://w3empire.com/pt/institutional/about-us/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/institutional/about-us/"
+                href="https://w3empire.com/institutional/about-us/"
                 />
   </url><url>
-    <loc>https://www.example.com/institutional/affiliate-disclosure/</loc>
+    <loc>https://w3empire.com/institutional/affiliate-disclosure/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://www.example.com/pt/institutional/affiliate-disclosure/"
+                href="https://w3empire.com/pt/institutional/affiliate-disclosure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/institutional/affiliate-disclosure/"
+                href="https://w3empire.com/institutional/affiliate-disclosure/"
                 />
   </url><url>
-    <loc>https://www.example.com/institutional/cookie-policy/</loc>
+    <loc>https://w3empire.com/institutional/cookie-policy/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://www.example.com/pt/institutional/cookie-policy/"
+                href="https://w3empire.com/pt/institutional/cookie-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/institutional/cookie-policy/"
+                href="https://w3empire.com/institutional/cookie-policy/"
                 />
   </url><url>
-    <loc>https://www.example.com/institutional/</loc>
+    <loc>https://w3empire.com/institutional/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://www.example.com/pt/institutional/"
+                href="https://w3empire.com/pt/institutional/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/institutional/"
+                href="https://w3empire.com/institutional/"
                 />
   </url><url>
-    <loc>https://www.example.com/institutional/privacy-policy/</loc>
+    <loc>https://w3empire.com/institutional/privacy-policy/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://www.example.com/pt/institutional/privacy-policy/"
+                href="https://w3empire.com/pt/institutional/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/institutional/privacy-policy/"
+                href="https://w3empire.com/institutional/privacy-policy/"
                 />
   </url><url>
-    <loc>https://www.example.com/institutional/terms-of-use/</loc>
+    <loc>https://w3empire.com/institutional/terms-of-use/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://www.example.com/pt/institutional/terms-of-use/"
+                href="https://w3empire.com/pt/institutional/terms-of-use/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/institutional/terms-of-use/"
+                href="https://w3empire.com/institutional/terms-of-use/"
                 />
   </url><url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://w3empire.com/</loc>
     <lastmod>2022-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://www.example.com/pt/"
+                href="https://w3empire.com/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/"
+                href="https://w3empire.com/"
                 />
   </url><url>
-    <loc>https://www.example.com/blog/</loc>
+    <loc>https://w3empire.com/blog/</loc>
   </url><url>
-    <loc>https://www.example.com/tags/index/</loc>
+    <loc>https://w3empire.com/tags/index/</loc>
   </url><url>
-    <loc>https://www.example.com/series/</loc>
+    <loc>https://w3empire.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://www.example.com/pt/series/"
+                href="https://w3empire.com/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/series/"
+                href="https://w3empire.com/series/"
                 />
   </url><url>
-    <loc>https://www.example.com/tags/</loc>
+    <loc>https://w3empire.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://www.example.com/pt/tags/"
+                href="https://w3empire.com/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.example.com/tags/"
+                href="https://w3empire.com/tags/"
                 />
   </url>
 </urlset>
